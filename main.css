@@ -15,9 +15,9 @@ h3 {
     width: 400px;
     margin: 10px;
     font: bold 30px 'Courier New', monospace;
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-content: center;
 }
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
