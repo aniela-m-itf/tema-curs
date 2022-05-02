@@ -1,8 +1,10 @@
 h3 {
     color:green
 }
-.tema1 {
-    border: 30px outset grey;
-    background-color: lightblue;
-    text-align: center;
-}
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+  }
