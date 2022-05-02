@@ -8,3 +8,11 @@ h3 {
     justify-content: center;
     align-content: center;
   }
+  .flex-container div {
+    background-color: whitesmoke;
+    color: darkgray;
+    height: 300px;
+    width: 400px;
+    margin: 10px;
+    font: bold 30px 'Courier New', monospace;
+ }
