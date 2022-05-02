@@ -1,6 +1,13 @@
 h3 {
     color:green
 }
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+}
 .flex-container div {
     background-color:lightgray;
     color: darkgray;
@@ -14,8 +21,3 @@ h3 {
     justify-content: center;
     align-content: center;
 }
-.center {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-} 
