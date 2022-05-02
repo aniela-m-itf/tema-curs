@@ -1,13 +1,6 @@
 h3 {
     color:green
 }
-.flex-container {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-content: center;
-  }
   .flex-container div {
     background-color: whitesmoke;
     color: darkgray;
@@ -15,4 +8,9 @@ h3 {
     width: 400px;
     margin: 10px;
     font: bold 30px 'Courier New', monospace;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
  }
