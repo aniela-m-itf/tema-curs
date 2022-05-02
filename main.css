@@ -1,15 +1,8 @@
 h3 {
     color:green
 }
-.flex-container {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-content: center;
-}
 .flex-container div {
-    background-color: whitesmoke;
+    background-color:lightgray;
     color: darkgray;
     height: 300px;
     width: 400px;
