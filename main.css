@@ -1,6 +1,19 @@
 h3 {
     color:green
 }
+h1 {
+    text-align: center;
+    color: darkslateblue;
+    letter-spacing: 3px;
+    text-shadow: 1px 1px 2px black, 0 0 5px darkblue;
+    font: bold 50px 'Courier New', monospace;
+}
+p{
+    color: black;
+    font: bold 20px 'Courier New', monospace;
+    text-indent: 50px;
+    line-height: 10;
+}
 .flex-container {
     display: flex;
     flex-direction: row;
