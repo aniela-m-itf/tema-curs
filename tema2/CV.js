@@ -1,1 +1,1 @@
-console.log("tema2")
+console.log("tema-curs")
