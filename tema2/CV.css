@@ -5,7 +5,7 @@
     align-content: center;
     align-items: flex-start;
     margin: 60px 70px 70px 70px;
-    font: bold 16px Arial, Helvetica, sans-serif;
+    font: bold 20px Arial, Helvetica, sans-serif;
 }   
 .flex-container div {
         display: inline;
@@ -18,7 +18,7 @@
         float: left;
 }
 .img {
-    margin: 10px 20px 5px 20px ;
+    margin: 40px 20px 10px 20px ;
     max-width: 10%;
     height: 10%;
     border-radius: 50%;
