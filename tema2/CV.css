@@ -25,12 +25,6 @@ h1{
     display: flex;
     align-items: center;
 }
-table {
-    margin-left: 20px;
-    margin-right: 60px;
-    font-size: larger;
-    width: 95%;
-}
 p {
     color:black
 }
