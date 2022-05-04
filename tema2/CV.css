@@ -34,3 +34,27 @@ h1{
 p {
     color:black
 }
+.subtitle{
+    color: red;
+    background-color: lightgray;
+    font: bold 25px Arial, Helvetica, sans-serif;
+    transition: font-size 3s;
+}
+.subtitle:hover{
+    font: bold 30px Arial, Helvetica, sans-serif
+}
+table {
+    margin-left: 20px;
+    margin-right: 60px;
+    font-size: larger;
+    width: 95%;
+}
+th, td {
+    text-align: left;
+}
+.right{
+    text-align: right;
+}
+ul{
+    list-style-type: circle;
+}
