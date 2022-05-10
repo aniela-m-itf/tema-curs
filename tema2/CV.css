@@ -21,9 +21,7 @@ h1{
     display: flex;
     align-items: center;
     background-color: lightgrey;
-    transition-property: font-size;
-    transition-duration: 10s;
-    transition-timing-function: ease;
-    transition-delay: 2s;
+    animation-name: Morogan Aniela Petronela;
+    animation-duration: 3s;
     font-family: Arial, Helvetica, sans-serif;
   }
